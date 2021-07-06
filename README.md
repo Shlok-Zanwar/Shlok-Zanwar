@@ -22,7 +22,7 @@ I am a student, currently studying in vishwakarma institute of information techn
 <br/>
 
 <a href="https://github.com/Shlok-Zanwar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shlok-Zanwar&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shlok-Zanwar&theme=radical&show_icons=true" />
 
 </a>
 
