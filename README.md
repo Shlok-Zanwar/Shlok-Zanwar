@@ -2,7 +2,7 @@
 
 
 ## About me :mortar_board:
-I am a student, currently studying in vishwakarma institute of information technology, pune (SY B-Tech). I am interested in Machine Learning, Development and always ready to contribute to a project that could help solve a problem. <br />
+I am a student, currently studying in vishwakarma institute of information technology, pune (TY B-Tech). I am interested in Machine Learning, Development and always ready to contribute to a project that could help solve a problem. <br />
 Quick learner, Proactive, Problem Solver, Tech enthusiast
 
 
