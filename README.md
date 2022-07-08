@@ -2,9 +2,11 @@
 
 
 ## About me :mortar_board:
-I am a student, currently studying in vishwakarma institute of information technology, pune (TY B-Tech). I am interested in Machine Learning, Development and always ready to contribute to a project that could help solve a problem. <br />
-Quick learner, Proactive, Problem Solver, Tech enthusiast
+I am a student, currently studying at Vishwakarma Institute of Information Technology, pune (B-Tech 2023).
+I am interested in Development and always ready to contribute to a project that could help solve a problem. <br />
+Quick learner, Proactive, Problem Solver, Tech enthusiast.
 
+More about me and my projects :- https://shlok-zanwar.github.io/
 
 ## What I know :computer:
 <code><a href="#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
